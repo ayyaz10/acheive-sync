@@ -1,7 +1,3 @@
-# acheive-sync
-A simple hobby project, a web app that tracks activities, and shows realtime progress.
-
-
 # AchieveSync Web App
 
 AchieveSync is a dynamic web application designed to empower individuals in tracking, managing, and achieving their personal and professional goals. This README provides an overview of the functionalities and features of the AchieveSync web app.
